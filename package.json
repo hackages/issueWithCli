@@ -15,7 +15,7 @@
     "deploy": "node publish.js"
   },
   "bin": {
-    "issueCli": "bin/index.js"
+    "issueWithCli": "bin/index.js"
   },
   "keywords": [
     "angular",
